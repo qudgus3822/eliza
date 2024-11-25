@@ -50,6 +50,9 @@ git clone https://github.com/ai16z/eliza-starter.git
 
 cp .env.example .env
 
+빌드 툴 꼭 설치 ! 
+sudo apt-get install -y build-essential
+
 pnpm i && pnpm start
 ```
 
